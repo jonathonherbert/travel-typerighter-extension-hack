@@ -1,8 +1,6 @@
-# Chrome Extension TypeScript Starter
+# Travel typerighter extension hack
 
-![build](https://github.com/chibat/chrome-extension-typescript-starter/workflows/build/badge.svg)
-
-Chrome Extension, TypeScript and Visual Studio Code
+An extremely cursed implementation of Travel Typerighter in a Chrome extension for Guardian Hack Day April 2021. Like a greek tragedy, initially convincing but implausibly, tragically flawed.
 
 ## Prerequisites
 
@@ -11,19 +9,6 @@ Chrome Extension, TypeScript and Visual Studio Code
 ## Option
 
 * [Visual Studio Code](https://code.visualstudio.com/)
-
-## Includes the following
-
-* TypeScript
-* Webpack
-* React
-* Jest
-* Example Code
-    * Chrome Storage
-    * Options Version 2
-    * content script
-    * count up badge number
-    * background
 
 ## Project Structure
 
