@@ -1,6 +1,6 @@
 # Travel typerighter extension hack
 
-An extremely cursed implementation of Travel Typerighter in a Chrome extension for Guardian Hack Day April 2021. Like a Greek tragedy, it is implausibly, tragically flawed.
+An extremely cursed implementation of Travel Typerighter in a Chrome extension for Guardian Hack Day April 2021. Like the protagonist of a Greek play, it is implausibly, tragically flawed.
 
 ## Prerequisites
 
